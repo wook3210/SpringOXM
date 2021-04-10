@@ -119,3 +119,63 @@
 
 11/12/2020 - 11:37:28 [main] INFO - com.oozeander.App => Employee(nni=BKBC76BN, firstname=Billel, lastname=KETROUCI, arrivalAt=Fri Dec 11 00:00:00 CET 2020, age=null, genderLong=MALE, genderShort=M, emails=[billel.ketrouci@gmail.com, billel.ketrouci@outlook.fr], address=Address(streetNumber=20, streetName=Rue de Quelque Chose, zipCode=93200, location=Location(department=Ile-de-France, country=FRANCE)))
 11/12/2020 - 11:37:28 [main] INFO - com.oozeander.App => Employee(nni=BKBC76BN, firstname=Billel, lastname=KETROUCI, arrivalAt=Fri Dec 11 00:00:00 CET 2020, age=null, genderLong=MALE, genderShort=M, emails=[billel.ketrouci@gmail.com, billel.ketrouci@outlook.fr], address=Address(streetNumber=20, streetName=Rue de Quelque Chose, zipCode=93200, location=Location(department=Ile-de-France, country=FRANCE)))
+10/04/2021 - 13:18:21 [main] INFO - com.oozeander.App => <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employee NNI="BKBC76BN" Gender="M">
+    <Firstname>Billel</Firstname>
+    <Lastname>KETROUCI</Lastname>
+    <Arrival>10/04/2021</Arrival>
+    <Gender>Homme</Gender>
+    <emails>
+        <email>billel.ketrouci@gmail.com</email>
+        <email>billel.ketrouci@outlook.fr</email>
+    </emails>
+    <Address>
+        <StreetNumber>20</StreetNumber>
+        <StreetName>Rue de Quelque Chose</StreetName>
+        <ZipCode>93200</ZipCode>
+        <Location Country="FRANCE">Ile-de-France</Location>
+    </Address>
+</Employee>
+
+10/04/2021 - 13:18:21 [main] INFO - com.oozeander.App => Employee(nni=BKBC76BN, firstname=Billel, lastname=KETROUCI, arrivalAt=Sat Apr 10 00:00:00 KST 2021, age=null, genderLong=MALE, genderShort=M, emails=[billel.ketrouci@gmail.com, billel.ketrouci@outlook.fr], address=Address(streetNumber=20, streetName=Rue de Quelque Chose, zipCode=93200, location=Location(department=Ile-de-France, country=FRANCE)))
+10/04/2021 - 13:18:21 [main] INFO - com.oozeander.App => Employee(nni=BKBC76BN, firstname=Billel, lastname=KETROUCI, arrivalAt=Sat Apr 10 00:00:00 KST 2021, age=null, genderLong=MALE, genderShort=M, emails=[billel.ketrouci@gmail.com, billel.ketrouci@outlook.fr], address=Address(streetNumber=20, streetName=Rue de Quelque Chose, zipCode=93200, location=Location(department=Ile-de-France, country=FRANCE)))
+10/04/2021 - 13:18:50 [main] INFO - com.oozeander.App => <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employee NNI="BKBC76BN" Gender="M">
+    <Firstname>Billel</Firstname>
+    <Lastname>KETROUCI</Lastname>
+    <Arrival>10/04/2021</Arrival>
+    <Gender>Homme</Gender>
+    <emails>
+        <email>billel.ketrouci@gmail.com</email>
+        <email>billel.ketrouci@outlook.fr</email>
+    </emails>
+    <Address>
+        <StreetNumber>20</StreetNumber>
+        <StreetName>Rue de Quelque Chose</StreetName>
+        <ZipCode>93200</ZipCode>
+        <Location Country="FRANCE">Ile-de-France</Location>
+    </Address>
+</Employee>
+
+10/04/2021 - 13:18:50 [main] INFO - com.oozeander.App => Employee(nni=BKBC76BN, firstname=Billel, lastname=KETROUCI, arrivalAt=Sat Apr 10 00:00:00 KST 2021, age=null, genderLong=MALE, genderShort=M, emails=[billel.ketrouci@gmail.com, billel.ketrouci@outlook.fr], address=Address(streetNumber=20, streetName=Rue de Quelque Chose, zipCode=93200, location=Location(department=Ile-de-France, country=FRANCE)))
+10/04/2021 - 13:18:50 [main] INFO - com.oozeander.App => Employee(nni=BKBC76BN, firstname=Billel, lastname=KETROUCI, arrivalAt=Sat Apr 10 00:00:00 KST 2021, age=null, genderLong=MALE, genderShort=M, emails=[billel.ketrouci@gmail.com, billel.ketrouci@outlook.fr], address=Address(streetNumber=20, streetName=Rue de Quelque Chose, zipCode=93200, location=Location(department=Ile-de-France, country=FRANCE)))
+10/04/2021 - 19:39:18 [main] INFO - com.oozeander.App => <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employee NNI="BKBC76BN" Gender="M">
+    <Firstname>Billel</Firstname>
+    <Lastname>KETROUCI</Lastname>
+    <Arrival>10/04/2021</Arrival>
+    <Gender>Homme</Gender>
+    <emails>
+        <email>billel.ketrouci@gmail.com</email>
+        <email>billel.ketrouci@outlook.fr</email>
+    </emails>
+    <Address>
+        <StreetNumber>20</StreetNumber>
+        <StreetName>Rue de Quelque Chose</StreetName>
+        <ZipCode>93200</ZipCode>
+        <Location Country="FRANCE">Ile-de-France</Location>
+    </Address>
+</Employee>
+
+10/04/2021 - 19:39:18 [main] INFO - com.oozeander.App => Employee(nni=BKBC76BN, firstname=Billel, lastname=KETROUCI, arrivalAt=Sat Apr 10 00:00:00 KST 2021, age=null, genderLong=MALE, genderShort=M, emails=[billel.ketrouci@gmail.com, billel.ketrouci@outlook.fr], address=Address(streetNumber=20, streetName=Rue de Quelque Chose, zipCode=93200, location=Location(department=Ile-de-France, country=FRANCE)))
+10/04/2021 - 19:39:18 [main] INFO - com.oozeander.App => Employee(nni=BKBC76BN, firstname=Billel, lastname=KETROUCI, arrivalAt=Sat Apr 10 00:00:00 KST 2021, age=null, genderLong=MALE, genderShort=M, emails=[billel.ketrouci@gmail.com, billel.ketrouci@outlook.fr], address=Address(streetNumber=20, streetName=Rue de Quelque Chose, zipCode=93200, location=Location(department=Ile-de-France, country=FRANCE)))

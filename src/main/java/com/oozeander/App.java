@@ -39,9 +39,9 @@ public class App {
 				new HashSet<>(Arrays.asList("billel.ketrouci@gmail.com", "billel.ketrouci@outlook.fr")), address);
 		JaxbService<Employee> employeeJaxbService = ctx.getBean(JaxbService.class);
 
-		employeeJaxbService.marshal(employee, "src/main/resources/marshal/employee.xml");
+		employeeJaxbService.marshal(employee, "src/main/resources/employee.xml");
 		LOGGER.info(employeeJaxbService.marshal(employee));
-		LOGGER.info(employeeJaxbService.unmarshal("src/main/resources/marshal/employee.xml"));
+		LOGGER.info(employeeJaxbService.unmarshal("src/main/resources/employee.xml"));
 
 		// JAXB Marshaller
 		JAXBContext jaxbContext = JAXBContext.newInstance(Employee.class);
