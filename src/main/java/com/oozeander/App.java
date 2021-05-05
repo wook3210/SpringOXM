@@ -51,7 +51,9 @@ public class App {
 		jaxbMarshaller.setProperty(Marshaller.JAXB_ENCODING, "UTF-8");
 		jaxbMarshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
 
-		jaxbMarshaller.marshal(employee, new File("src/main/resources/marshal/employee2.xml"));
+		employee.setLastname ("one");
+
+		jaxbMarshaller.marshal(employee, new File("src/main/resources/marshal/employee3.xml"));
 		LOGGER.info(jaxbUnmarshaller.unmarshal(new File("src/main/resources/marshal/employee2.xml")));
 
 		ctx.close();
